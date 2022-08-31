@@ -1,22 +1,29 @@
-# Getting Started with Create React App
+# Netflix Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Desenvolvido com ajuda do pasquadev em seu canal do youtube.
+
+## Link hospedado 
+https://netflixclone.page.link/projeto
+
+Acusará site não seguro > clique em "saiba mais" > "acessar este site não seguro".
+
+Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts Disponíveis
 No diretório do projeto, você pode executar:
 
-### npm início
+### npm init
 Executa o aplicativo no modo de desenvolvimento.
 Abra http://localhost:3000 para visualizá-lo em seu navegador.
 
 A página será recarregada quando você fizer alterações.
 Você também pode ver erros de lint no console.
 
-### teste npm
+### npm test
 Inicia o executor de teste no modo de relógio interativo.
 Consulte a seção sobre como executar testes para obter mais informações.
 
-### npm executar compilação
+### npm run build
 Compila o aplicativo para produção na pasta de compilação.
 Ele agrupa corretamente o React no modo de produção e otimiza a compilação para o melhor desempenho.
 
@@ -25,7 +32,7 @@ Seu aplicativo está pronto para ser implantado!
 
 Consulte a seção sobre implantação para obter mais informações.
 
-npm executar ejetar
+### npm run eject
 Nota: esta é uma operação unidirecional. Depois de ejetar, você não pode voltar!
 
 Se você não estiver satisfeito com a ferramenta de compilação e as opções de configuração, poderá ejetar a qualquer momento. Este comando removerá a dependência de compilação única do seu projeto.
